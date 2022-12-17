@@ -51,3 +51,7 @@ rm -rf app
 # copy your app over
 cp -R ../my-old-remix-app/app app
 ```
+
+### Remix stying with Tailwind
+
+- [Remix Docs & Stying Tailwind CSS](https://remix.run/docs/en/v1/guides/styling#tailwind-css)
