@@ -52,6 +52,8 @@ rm -rf app
 cp -R ../my-old-remix-app/app app
 ```
 
-### Remix stying with Tailwind
+### Remix stying Guides
 
-- [Remix Docs & Stying Tailwind CSS](https://remix.run/docs/en/v1/guides/styling#tailwind-css)
+- [Remix Styling Guides](https://remix.run/docs/en/v1/guides/styling)
+
+- [Remix Stying Tailwind CSS Guide](https://remix.run/docs/en/v1/guides/styling#tailwind-css)
