@@ -11,11 +11,15 @@
   text-decoration: none;
   background-color: var(--color-secondary-100);
   color: var(--color-primary-800);
-  padding: 0.5rem 2rem;
+  padding: 1rem 2rem;
   border-radius: 4px;
   font-size: 1.5rem;
 }
 
 #cta a:hover {
   background-color: var(--color-secondary-200);
+}
+
+#sub-title {
+  font-size: 1.2rem;
 }

@@ -4,15 +4,15 @@ function NewNote() {
   return (
     <form method="post" id="note-form">
       <p>
-        <label htmlFor="title">Título</label>
+        <label htmlFor="title">Título / Descrição</label>
         <input type="text" id="title" name="title" required />
       </p>
       <p>
-        <label htmlFor="content">Conteúdo</label>
+        <label htmlFor="content">Conteúdo (até 55 caracteres)</label>
         <textarea id="content" name="content" rows="5" required />
       </p>
       <div className="form-actions">
-        <button>Adiciona uma nota!</button>
+        <button>Adicionar!</button>
       </div>
     </form>
   );

@@ -13,7 +13,7 @@
 }
 
 .note {
-  width: 30%;
+  width: 40%;
   background-color: var(--color-primary-700);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   padding: 1.5rem;
