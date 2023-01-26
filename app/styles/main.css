@@ -80,6 +80,27 @@ body {
   font-size: 1.5rem;
 }
 
+.marketing-image {
+  margin-top: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 40%;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  padding: 0.4rem;
+  background-color: var(--color-primary-100);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.marketing-image img {
+  width: 100%;
+  border-radius: 4px;
+}
+
 @keyframes fade-blur-in {
   from {
     opacity: 0;
